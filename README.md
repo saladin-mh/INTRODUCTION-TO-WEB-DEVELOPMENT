@@ -1,1 +1,1 @@
-local specialty coffee shop, Mug and Mingle
+Mug and Mingle web page for a local coffee shop.
