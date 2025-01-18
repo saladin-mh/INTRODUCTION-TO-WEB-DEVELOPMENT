@@ -171,7 +171,7 @@ figure img {
 /* Sidebar */
 .sidebar {
     background: 
-    url(images/img30.png) no-repeat center center/cover;
+    url(/images/img30.png) no-repeat center center/cover;
     grid-area: sidebar;
     padding: 20px;
     background-color: #f9f9f9;
